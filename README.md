@@ -14,3 +14,8 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/your-repo/project_001.git
+Для работы приложения необходимо установить следующие модули:
+
+```bash
+npm install react react-dom react-router-dom
+```
